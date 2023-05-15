@@ -1,0 +1,17 @@
+    
+  table {
+    border: 2px solid forestgreen;
+    width: 70%;
+    height: auto;
+    padding: 10px;
+    background-color: rgb(235, 237, 237);
+  }
+    
+  th {
+    border: 2px solid black;
+  }
+    
+  td {
+    border: 2px solid black;
+    text-align: center;
+  }
